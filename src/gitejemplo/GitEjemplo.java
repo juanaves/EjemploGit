@@ -17,6 +17,7 @@ public class GitEjemplo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Clase principal");
+        System.out.println("Cambiada la clase");
     }
     
 }
